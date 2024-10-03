@@ -1,0 +1,13 @@
+{
+  "name": "fonts-convert",
+  "author": {
+    "name": "Victor Maznichenko"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fontmin": "^1.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
